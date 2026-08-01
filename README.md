@@ -68,9 +68,6 @@ blockchain-explorer/
 
 ### 📄 Documentation Files
 - [Full Project Report](docs/report/project-report.pdf)
-- [Abstract](docs/report/abstract.pdf)
-- [Final Presentation (PDF)](docs/report/final-presentation.pdf)
-- [Presentation Slides (PPTX)](docs/presentation/presentation.pptx)
 
 ### 📊 Sample Data
 - `data/all_transaction.json` — sample transaction dataset
